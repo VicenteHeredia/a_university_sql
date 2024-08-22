@@ -1,8 +1,8 @@
 # a_university_sql
 A University SQL
 
-Project Overview
-Build a SQL database for a university that manages students, courses, professors, and grades.
+Project Overview:
+build a SQL database for a university that manages students, courses, professors, and grades.
 
 # The project needs to contain the following technical features:
     • Build a database with the following tables: Students, Courses, Professors, Grades 
